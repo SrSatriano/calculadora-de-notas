@@ -60,7 +60,7 @@ Este projeto requer a biblioteca Tkinter no Python para criar a interface gráfi
 
 ## Instalação
 Certifique-se de ter o Python corretamente instalado em seu ambiente. Em seguida, instale a biblioteca Tkinter usando o seguinte comando:
-**<span style="color:yellow">pip</span> install tkinter**
+*<span style="color:yellow">pip</span> install tkinter*
 
 Isso irá instalar o Tkinter e todas as suas dependências.
 
