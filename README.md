@@ -69,3 +69,56 @@ Isso irá instalar o Tkinter e todas as suas dependências.
 ______________________________________________________________________________________________________________________________
 
 
+# Final Grade Calculator (Bimonthly, Quarterly and Semiannual)
+
+This is a final grade calculator that allows you to calculate the weighted average based on entered grades and weights. It is implemented in two versions: a Java version for desktop application and another Python version with GUI using tkinter.
+
+## Java Version (Desktop)
+**Functionalities:**
+
+- Allows you to enter up to 6 notes, along with their respective weights.
+- Calculates the weighted average of the grades, considering the informed weights.
+- Displays the final grade for the semester.
+
+**How to use:**
+
+1. Make sure you have Java installed on your system.
+2. Download or copy this repository.
+3. Open the project in a Java IDE such as Eclipse or IntelliJ.
+4. Run the Calculator class as a Java application.
+5. The calculator window will appear where you can fill in the desired grades and weights and click the "Calculate" button to get the final grade.
+
+## Python Version (Graphic Interface)
+**Functionalities:**
+
+- Allows you to enter up to 6 notes, along with their respective weights.
+- Calculates the weighted average of the grades, considering the informed weights.
+- Displays the final grade for the semester.
+
+**How to use:**
+
+1. Make sure you have Python installed on your system.
+2. Download or copy this repository.
+3. Open the calculator.py file in a text editor or a Python IDE.
+4. Run the Python code.
+5. The calculator window will appear where you can fill in the desired grades and weights and click the "Calculate" button to get the final grade.
+
+## Contribution
+Contributions are welcome! If you encounter any issues, have ideas for improvements, or want to add new features, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+## Thanks
+This project was developed by Matheus Rodrigues Satriano as an educational example for programming learning purposes.
+The implementation of the final grade calculator in Python with a graphical interface was provided by the user Matheus Rodrigues Satriano.
+
+## Required Libraries
+This project requires the Tkinter library in Python to create the GUI.
+
+## Installation
+Make sure you have Python correctly installed in your environment. Then install the Tkinter library using the following command:
+"pip install tkinter"
+
+
+This will install Tkinter and all its dependencies.
