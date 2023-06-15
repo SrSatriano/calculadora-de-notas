@@ -60,8 +60,7 @@ Este projeto requer a biblioteca Tkinter no Python para criar a interface gráfi
 
 ## Instalação
 Certifique-se de ter o Python corretamente instalado em seu ambiente. Em seguida, instale a biblioteca Tkinter usando o seguinte comando:
-"pip install tkinter"
-
+**<span style="color:yellow">pip</span> install tkinter**
 
 Isso irá instalar o Tkinter e todas as suas dependências.
 
@@ -69,18 +68,24 @@ Isso irá instalar o Tkinter e todas as suas dependências.
 ______________________________________________________________________________________________________________________________
 
 
+# English
+
 # Final Grade Calculator (Bimonthly, Quarterly and Semiannual)
 
 This is a final grade calculator that allows you to calculate the weighted average based on entered grades and weights. It is implemented in two versions: a Java version for desktop application and another Python version with GUI using tkinter.
 
 ## Java Version (Desktop)
-**Functionalities:**
+<details>
+<summary>Functionalities:</summary>
 
 - Allows you to enter up to 6 notes, along with their respective weights.
 - Calculates the weighted average of the grades, considering the informed weights.
 - Displays the final grade for the semester.
 
-**How to use:**
+</details>
+
+<details>
+<summary>How to use:</summary>
 
 1. Make sure you have Java installed on your system.
 2. Download or copy this repository.
@@ -88,20 +93,28 @@ This is a final grade calculator that allows you to calculate the weighted avera
 4. Run the Calculator class as a Java application.
 5. The calculator window will appear where you can fill in the desired grades and weights and click the "Calculate" button to get the final grade.
 
+</details>
+
 ## Python Version (Graphic Interface)
-**Functionalities:**
+<details>
+<summary>Functionalities:</summary>
 
 - Allows you to enter up to 6 notes, along with their respective weights.
 - Calculates the weighted average of the grades, considering the informed weights.
 - Displays the final grade for the semester.
 
-**How to use:**
+</details>
+
+<details>
+<summary>How to use:</summary>
 
 1. Make sure you have Python installed on your system.
 2. Download or copy this repository.
 3. Open the calculator.py file in a text editor or a Python IDE.
 4. Run the Python code.
 5. The calculator window will appear where you can fill in the desired grades and weights and click the "Calculate" button to get the final grade.
+
+</details>
 
 ## Contribution
 Contributions are welcome! If you encounter any issues, have ideas for improvements, or want to add new features, feel free to open an issue or submit a pull request.
@@ -118,7 +131,7 @@ This project requires the Tkinter library in Python to create the GUI.
 
 ## Installation
 Make sure you have Python correctly installed in your environment. Then install the Tkinter library using the following command:
-"pip install tkinter"
-
+**<span style="color:yellow">pip</span> install tkinter**
 
 This will install Tkinter and all its dependencies.
+
