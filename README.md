@@ -37,3 +37,17 @@ Este projeto está licenciado sob a MIT License.
 Agradecimentos
 Este projeto foi desenvolvido por Matheus Rodrigues Satriano como exemplo educacional para fins de aprendizado de programação.
 A implementação da calculadora de nota final em Python com interface gráfica foi fornecida pelo usuário Matheus Rodrigues Satriano.
+
+
+
+## Bibliotecas necessárias
+
+Este projeto requer a biblioteca Tkinter no Python para criar a interface gráfica. 
+
+## Instalação
+
+Certifique-se de ter o Python corretamente instalado em seu ambiente. Em seguida, instale a biblioteca Tkinter usando o seguinte comando:
+"pip install tkinter"
+
+Isso irá instalar o Tkinter e todas as suas dependências.
+
